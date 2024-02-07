@@ -25,10 +25,10 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
         <span>I’m looking to collaborate on <b>Django REST Projects</b> </span>
     </p>
-    <p >
+    <!-- <p >
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
         <span>I really love to meet with new people</span>
-    </p>
+    </p> -->
 
 </p>
 
