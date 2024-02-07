@@ -173,13 +173,14 @@
   <a href="https://github.com/tanzid64/github-readme-stats"><img alt="Tanzid Haque's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/><br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzid64" alt="tanzid64" /></a>
 
 <br/>
 <br/>
 
 <span>
-<a href="https://github.com/tanzid64/github-readme-activity-graph"><img alt="Tanzid Haque's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanzid64&theme=redical&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=060A0CD0" /></a>
+<a href="https://github.com/tanzid64/github-readme-activity-graph"><img alt="Tanzid Haque's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanzid64&bg_color=000000&color=9e4c98&line=9e4c98&point=e3e3e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
 </span>
 
 <br/>
