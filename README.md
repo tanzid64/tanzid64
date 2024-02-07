@@ -33,7 +33,18 @@
 </p>
 
 
+<h2 style='margin-top:30px'>
+        <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
+        <b>Connect with me :</b>
+</h2>
 
+<p align='left'>
+<a href="https://linkedin.com/in/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzid64" height="30" width="40" /></a>
+<a href="https://fb.com/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanzid64" height="30" width="40" /></a>
+<a href="https://instagram.com/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzid64" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tanzid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanzid1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanzid3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanzid3" height="30" width="40" /></a>
+</p>
 
 <h2 style='margin-top:30px'>
         <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
@@ -159,11 +170,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/tanzid64/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tanzid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid64&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 <h2>
         <span style='padding-right:10px'><img width='30' height="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></span>
@@ -173,8 +184,6 @@
   <a href="https://github.com/tanzid64/github-readme-stats"><img alt="Tanzid Haque's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/><br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzid64" alt="tanzid64" /></a>
 
 <br/>
 <br/>
@@ -186,23 +195,10 @@
 <br/>
 <br/>
 
-<h2 style='margin-top:30px'>
-        <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
-        <b>Connect with me :</b>
-</h2>
 
-<p align='left'>
-<a href="https://linkedin.com/in/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzid64" height="30" width="40" /></a>
-<a href="https://fb.com/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanzid64" height="30" width="40" /></a>
-<a href="https://instagram.com/tanzid64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzid64" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tanzid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanzid1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanzid3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanzid3" height="30" width="40" /></a>
-</p>
 
 <h2 style='display : flex;margin-top:30px'>
         <span style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></span>
         <b>Views and Followers :</b>
 </h2>
-<img src="https://komarev.com/ghpvc/?username=tanzid64&label=Profile%20views&color=0e75b6&style=flat" alt="tanzid64" />
-
-<a href="https://github.com/tanzid64?tab=followers"><img src="https://img.shields.io/github/followers/tanzid64?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=tanzid64&label=Profile%20views&color=0e75b6&style=flat" alt="tanzid64" /><a href="https://github.com/tanzid64?tab=followers"><img src="https://img.shields.io/github/followers/tanzid64?label=Followers&style=social" alt="GitHub Badge"></a>
