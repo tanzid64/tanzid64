@@ -61,7 +61,7 @@
   <a href="https://github.com/tanzid64/github-readme-stats"><img alt="Tanzid Haque's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzid64" alt="tanzid64" /></a>
 
 <br/>
 <br/>
@@ -91,4 +91,5 @@
         <b>Views and Followers :</b>
 </h2>
 <img src="https://komarev.com/ghpvc/?username=tanzid64&label=Profile%20views&color=0e75b6&style=flat" alt="tanzid64" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzid64" alt="tanzid64" /></a>
+
+<a href="https://github.com/tanzid64?tab=followers"><img src="https://img.shields.io/github/followers/tanzid64?label=Followers&style=social" alt="GitHub Badge"></a>
