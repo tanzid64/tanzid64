@@ -1,5 +1,5 @@
 
-  <img height="150" src="https://res.cloudinary.com/djwpnwfs8/image/upload/v1727724018/my-portfolio/lauo4my1fagvn2dxqkxx.png"  />
+  <img src="https://res.cloudinary.com/djwpnwfs8/image/upload/v1727724018/my-portfolio/lauo4my1fagvn2dxqkxx.png"  />
 
 
 ###
@@ -24,9 +24,9 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">-->
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I am a software developer...</h1>
 
 ###
 
@@ -82,7 +82,10 @@
 
 
   <!-- <img src="https://streak-stats.demolab.com?user=tanzid64&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-  ![](https://github-contributor-stats.vercel.app/api?username=tanzid64&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid64&theme=dark&hide_border=false" height="210" width="" alt="stack graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="210" alt="stack graph"/>
+</div>
 
 
 ###
