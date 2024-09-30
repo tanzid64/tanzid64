@@ -1,4 +1,6 @@
-<img align="left" height="150" src="https://res.cloudinary.com/djwpnwfs8/image/upload/v1727724018/my-portfolio/lauo4my1fagvn2dxqkxx.png"  />
+<div align="center">
+  <img height="150" src="https://res.cloudinary.com/djwpnwfs8/image/upload/v1727724018/my-portfolio/lauo4my1fagvn2dxqkxx.png"  />
+</div>
 
 ###
 
@@ -78,13 +80,12 @@
 
 ###
 
-<div align="center">
+
   <!-- <img src="https://streak-stats.demolab.com?user=tanzid64&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
   ![](https://github-contributor-stats.vercel.app/api?username=tanzid64&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+
 
 ###
 <h3 align="left">🏆 GitHub Trophies </h3>
-###
 
 ![](https://github-profile-trophy.vercel.app/?username=tanzid64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
