@@ -1,6 +1,6 @@
-<div align="center">
+
   <img height="150" src="https://res.cloudinary.com/djwpnwfs8/image/upload/v1727724018/my-portfolio/lauo4my1fagvn2dxqkxx.png"  />
-</div>
+
 
 ###
 
