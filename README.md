@@ -83,8 +83,8 @@
 
   <!-- <img src="https://streak-stats.demolab.com?user=tanzid64&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid64&theme=dark&hide_border=false" height="210" width="" alt="stack graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="210" alt="stack graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzid64&theme=dark&hide_border=false" height="150" width="" alt="stack graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stack graph"/>
 </div>
 
 
