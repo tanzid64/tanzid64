@@ -91,8 +91,7 @@
 ###
 <h3 align="left">🏆 GitHub Trophies </h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanzid64&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Followers,Commits,Repositories,MultiLanguage" alt="Github Trophies/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanzid64&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Followers,Commits,Repositories,MultiLanguage" alt="trophies" />
+</p>
 
-<!--![](https://github-profile-trophy.vercel.app/?username=tanzid64&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Followers,Commits,Repositories,MultiLanguage)-->
